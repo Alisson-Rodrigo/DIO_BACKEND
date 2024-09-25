@@ -1,6 +1,0 @@
-@DIO_BACKEND_HostAddress = http://localhost:5071
-
-GET {{DIO_BACKEND_HostAddress}}/weatherforecast/
-Accept: application/json
-
-###
